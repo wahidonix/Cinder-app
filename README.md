@@ -1,6 +1,6 @@
 # cinder_v2
 
-A new Flutter project.
+App that helps couples to choose movies, music and food.
 
 ## Getting Started
 
